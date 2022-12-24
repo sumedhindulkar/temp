@@ -1,0 +1,22 @@
+[
+    {
+        "schoolName": "100 Mile House Elementary in 100 Mile House",
+        "schoolAddress": "Box 460100 Mile House, British Columbia V0K 2E0",
+        "email": "donna.rodger@sd27.bc.ca"
+    },
+    {
+        "schoolName": "100 Mile House Jr Secondary in 100 Mile House",
+        "schoolAddress": "Box 219100 Mile House, British Columbia V0K 2E0",
+        "email": "vic.brett@sd27.bc.ca"
+    },
+    {
+        "schoolName": "100 Mile StrongStart Centre in 100 Mile House",
+        "schoolAddress": "PO Box 460100 Mile House, British Columbia V0K 2E0",
+        "email": null
+    },
+    {
+        "schoolName": "150 Mile Elementary in 150 Mile House",
+        "schoolAddress": "Box 259150 Mile House, British Columbia V0K 2G0",
+        "email": "calvin.williams@sd27.bc.ca"
+    }
+]
